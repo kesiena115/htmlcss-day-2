@@ -1,0 +1,44 @@
+body {
+	background-color: #FFFAD3;
+}
+h1, h2, h3 {
+}
+h1 {
+}
+h3 {
+}
+li {
+}
+a {
+}
+.container {
+	width: 800px;
+	margin: 0 auto;
+}
+.header {
+	background-color: #F25D4D;
+	text-align: center;
+}
+.title {
+}
+.navbar li {
+}
+.row {
+	background-color: #F79767;
+}
+.js {
+}
+.randomwhitediv {
+	background-color: #FFFEF8;
+	height: 50px;
+	width: 200px;
+
+}
+.feature {
+	display: inline-block;
+	background-color: #7DB8A2;
+}
+button {
+	background-color: #F25D4D;
+	color: white;
+}
